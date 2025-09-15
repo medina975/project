@@ -1,0 +1,25 @@
+{
+    "slider":[
+    { "id": 1, "image": "slider1.avif", "alt": "Slider1" },
+    { "id": 2, "image": "slider2.avif", "alt": "Slider2" },
+    { "id": 3, "image": "slider3.avif", "alt": "Slider3" },
+    { "id": 4, "image": "slider4.avif", "alt": "Slider4" },
+    { "id": 5, "image": "slider5.avif", "alt": "Slider5" },
+    { "id": 6, "image": "slider6.avif", "alt": "Slider6" },
+    { "id": 7, "image": "slider7.avif", "alt": "Slider7" },
+    { "id": 8, "image": "slider8.avif", "alt": "Slider8" },
+    { "id": 9, "image": "slider9.avif", "alt": "Slider9" },
+    { "id": 10, "image": "/slider10.avif", "alt": "Slider10" },
+    { "id": 11, "image": "/slider11.avif", "alt": "Slider11" },
+    { "id": 12, "image": "/slider12.avif", "alt": "Slider12" },
+    { "id": 13, "image": "/slider13.avif", "alt": "Slider13" },
+    { "id": 14, "image": "/slider14.avif", "alt": "Slider14" },
+    { "id": 15, "image": "/slider15.avif", "alt": "Slider15" },
+    { "id": 16, "image": "/slider16.avif", "alt": "Slider16" },
+    { "id": 17, "image": "/slider17.avif", "alt": "Slider17" },
+    { "id": 18, "image": "/slider18.avif", "alt": "Slider18" },
+    { "id": 19, "image": "/slider19.avif", "alt": "Slider19" },
+    { "id": 20, "image": "/slider20.avif", "alt": "Slider20" }
+  ]
+}
+  
