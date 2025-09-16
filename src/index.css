@@ -2815,9 +2815,6 @@ font-family: 'Haas';
 .rareImpact3 p{
   font-size: 10px;
 }
-.sliderSkin {
-  height: 200px;
-}
 .sliderImages {
   display: flex;
   gap: 20px;
