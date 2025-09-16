@@ -2427,10 +2427,14 @@ font-family: 'Haas';
 }
 
 @media (max-width: 580px) {
-  .sliderSkin {
-    height: 400px;
-}
-}
+  .sliderImage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform .2s ease;
+    }
+
   .sliderImage {
     display: grid;
     grid-template-columns: repeat(2, 45%);
