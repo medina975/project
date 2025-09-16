@@ -2427,6 +2427,13 @@ font-family: 'Haas';
 }
 
 @media (max-width: 580px) {
+  .sliderImage {
+    display: grid;
+    grid-template-columns: repeat(2, 45%);
+    grid-template-rows: repeat(3, 30%); 
+    gap: 5px;
+    flex-shrink: 0;
+  }
   .menuList{
     font-size: 15px;
   }
